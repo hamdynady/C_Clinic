@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689594157 source:f:\courses\programming\c language\labs\c_clinic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
